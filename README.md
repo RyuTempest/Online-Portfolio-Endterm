@@ -6,36 +6,6 @@
 
 ---
 
-## 👥 Team Members  
-
-### 🎨 **Genee Antonette Joe Cabalonga**  
-*Graphic Designer & Computer Engineering Student*  
-Focused on visual storytelling and creating designs that communicate effectively.  
-
-**Design Skills:**  
-- 🌐 Web Design — 75%  
-- 🖼️ Poster Design — 65%  
-- 📐 Template Design — 80%  
-- 🖌️ Mock-Up Design — 60%  
-
----
-
-### ⚙️ **Ray Rafael Avila**  
-*Hardware Engineer & Computer Engineering Student*  
-Aspiring tech innovator, combining hardware knowledge with coding and entrepreneurial vision.  
-
-**Design Skills:**  
-- 🌐 Web Design — 75%  
-- 🖼️ Poster Design — 80%  
-- 📐 Template Design — 80%  
-- 🖌️ Mock-Up Design — 70%  
-
-**Coding Skills:**  
-- 💻 JavaScript — 90%  
-- 🎨 HTML/CSS — 85%  
-
----
-
 ## 📚 About This Project  
 
 This portfolio website was developed as part of our **academic requirements**.  
